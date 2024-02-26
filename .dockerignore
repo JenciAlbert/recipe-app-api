@@ -1,19 +1,15 @@
 # Git
-
-.git 
+.git
 .gitignore
 
+# Docker
+.docker
 
-#Docker 
-
-.docker 
-
-#Python 
-
-app/__pyache__/
-app/*/__pyache__/
-app/*/*/__pyache__/
-app/*/*/*/__pyache__/
+# Python
+app/__pycache__/
+app/*/__pycache__/
+app/*/*/__pycache__/
+app/*/*/*/__pycache__/
 .env/
 .venv/
 venv/
